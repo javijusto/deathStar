@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\javij\source\repos\ProyectoFinal\main.c(92): warning C4013: 'myEsfera' sin definir; se supone que extern devuelve como resultado int
+C:\Users\javij\source\repos\ProyectoFinal\main.c(483): warning C4113: 'void (__cdecl *)()' es distinto en las listas de parámetros de 'void (__cdecl *)(int)'
+C:\Users\javij\source\repos\ProyectoFinal\main.c(574): warning C4013: 'time' sin definir; se supone que extern devuelve como resultado int
+C:\Users\javij\source\repos\ProyectoFinal\main.c(635): warning C4113: 'void (__cdecl *)(unsigned char)' es distinto en las listas de parámetros de 'void (__cdecl *)(unsigned char,int,int)'
+C:\Users\javij\source\repos\ProyectoFinal\main.c(637): warning C4113: 'void (__cdecl *)()' es distinto en las listas de parámetros de 'void (__cdecl *)(int)'
+C:\Users\javij\source\repos\ProyectoFinal\main.c(391): warning C4716: 'colisiones': debe devolver un valor
+p3_1.obj : error LNK2005: ya se definió _myCubo en esfera.obj
+C:\Users\javij\source\repos\ProyectoFinal\Debug\ProyectoFinal.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
